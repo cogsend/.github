@@ -1,23 +1,8 @@
-<p align="center">
-  <img width="96" alt="CogSend" src="https://github.com/user-attachments/assets/42c2579f-b1f2-4345-980a-01e24c9e027c" />
-</p>
+# CogSend
 
-<h1 align="center">CogSend</h1>
+Self-hosted social scheduler for Mastodon, Bluesky, LinkedIn, Threads and X. Runs on your own Cloudflare account.
 
-<p align="center">
-  Self-hosted social scheduler for Mastodon, Bluesky, LinkedIn, Threads and X.<br />
-  Runs on your own Cloudflare account.
-</p>
-
-<p align="center">
-  <a href="https://cogsend.com">Website</a>
-  ·
-  <a href="https://cogsend.com/docs/">Docs</a>
-  ·
-  <a href="https://cogsend.com/docs/deploy/">Install</a>
-  ·
-  <a href="https://github.com/cogsend/cogsend/discussions">Discussions</a>
-</p>
+[Website](https://cogsend.com) · [Docs](https://cogsend.com/docs/) · [Install](https://cogsend.com/docs/deploy/) · [Discussions](https://github.com/cogsend/cogsend/discussions)
 
 | Repository | What it is |
 | --- | --- |
