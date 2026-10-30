@@ -1,6 +1,6 @@
 # CogSend
 
-Self-hosted social scheduler for Mastodon, Bluesky, LinkedIn, Threads and X. Runs on your own Cloudflare account.
+Self-hosted social scheduler for Mastodon, Bluesky, LinkedIn, Threads, Instagram and X. Runs on your own Cloudflare account.
 
 [Website](https://cogsend.com) · [Docs](https://cogsend.com/docs/) · [Install](https://cogsend.com/docs/deploy/) · [Discussions](https://github.com/cogsend/cogsend/discussions)
 
